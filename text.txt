@@ -1,0 +1,70 @@
+
+<!--======== HOME TITLE ===========-->
+Learn new skills <br> online with top <br> educators
+
+<!--======== HOME DESCP ===========-->
+His ideas somewhere, me,to founding so unable late, the unrecognisable.
+
+<!--======== ABOUT TITLE ===========-->
+Our numbers tell more about us 
+
+<!--======== ABOUT NUMS ===========-->
+6+
+5K+
+1.5K+
+
+<!--======== ABOUT DESCP ===========-->
+-Total branches opened in last year
+-New students in last 30 days
+-Comments made by our students
+
+<!--======== COURSES TITLE ===========-->
+We add value to our student's journey
+
+<!--======== COURSES SUB-TITLE ===========-->
+-Online classes
+-Easy registration
+-Expert trainers
+-Easy to use
+
+<!--======== COURSES DESCP ===========-->
+-Quisque lorem tortor fringilla sed
+
+<!--======== SERVICES TITLE ===========-->
+We'll help you learn what you like
+
+<!--======== SERVICES SUB-TITLE ===========-->
+-Go at you own pace
+-Learn from industry experts
+-Find video course on almost any topic
+
+<!--======== SERVICES DESCP ===========-->
+Lorem ipsum dolor sit amet consectetur
+adipisicing elit. Saepe, sit hic modi
+officiis dicta corrupti, expedita minima
+epturi quisquam eaque harum vitae explicabo.
+
+<!--======== TESTO TITLE ===========-->
+Student's Say
+
+<!--======== TESTO DESCP ===========-->
+"Finally,i've found a course platform that covers all bases for a bootstrapped
+startup.We were able to launch in days,not months.
+We have learned a lot!
+"
+
+<!--======== TESTO NAME ===========-->
+Kianna Franci
+John Doe
+Bella Danci
+
+<!--======== TESTO LOC ===========-->
+-New York,USA
+-London, UK
+-Paris, Frensh
+
+<!--======== CONTACT TITLE ===========-->
+Start learning today.<br> Grow your career
+
+<!--======== CONTACT DESCP ===========-->
+Aenean tempor tortor in metus pretium,sed faucibus ilguala accumsan vivamus consequat.
